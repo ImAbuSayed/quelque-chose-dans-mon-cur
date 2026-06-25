@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Quelque Chose Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
+| **Get License** | [Commercial Licensing for Quelque Chose Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4316)
 
 ---
 
