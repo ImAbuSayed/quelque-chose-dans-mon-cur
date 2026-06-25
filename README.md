@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Quelque Chose Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
+| **Get License** | [Commercial Licensing for Quelque Chose Dans Mon Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-dans-mon-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quelque chose dans mon cœur s'allume quand tu bouges
+> Dans l'ombre de la nuit, baby, tes lèvres rouges
+> Je perds un peu le nord, I’m falling for your vibe
+> Sous les néons de Paris, you’re my midnight drive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
